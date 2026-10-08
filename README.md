@@ -22,9 +22,13 @@ Der Agent erkennt ein Risiko, nennt Ursache, Prognose und einen Vorschlag – fr
 
 ## Praxisnutzen im Unternehmen
 
-- KI schrittweise und **regelkonform** einführen, statt einzelne Werkzeuge ohne Gesamtbild zu nutzen
-- Prozesse erst **verstehen und verbessern**, dann automatisieren
-- Verantwortung, Freigaben und Nachweise so gestalten, dass sie auch einem **Audit** standhalten
+- **Digitalisierung mit Plan:** KI und Automatisierung schrittweise und regelkonform einführen, statt einzelne Werkzeuge ohne Gesamtbild zu nutzen
+- **Weniger Fehler:** Agenten prüfen Vollständigkeit, Fristen und Regeln automatisch vor; der Mensch prüft ein zweites Mal (Vier-Augen-Prinzip)
+- **Zeitersparnis:** Routinearbeit wie Vorbereiten, Abgleichen und Dokumentieren übernehmen Agenten; Fachkräfte gewinnen Zeit für Entscheidungen und Kunden
+- **Kostenoptimierung:** schlanke Prozesse ohne Doppelarbeit und Medienbrüche; Kosten je Prozess und Abteilung werden sichtbar
+- **Prozesse verbessern:** Abläufe erst verstehen und vereinfachen, dann automatisieren
+- **Sicherheit und Nachweis:** Verantwortung, Freigaben und Nachweise halten einem Audit stand (DSGVO, EU AI Act)
+- **Wissen bleibt im Unternehmen:** Erfahrungen aus Projekten fließen in die Wissensbasis der Rollen zurück
 
 ## Werkzeuge
 
@@ -41,5 +45,7 @@ Siehe mein [GitHub-Profil](https://github.com/Mathias-Stumpf2026) – ich freue 
 How can people and AI agents work together in a company – safely, traceably and with clear accountability? In this private project I am building a **digital company** in which every position is a **human + AI agent tandem**, workflows are modelled as business processes (BPMN 2.0), and every material decision is made by a human (**human-in-the-loop**).
 
 **Topics:** AI agents with defined roles and limits · process management · organisational design · AI governance (GDPR, EU AI Act, information security) · dashboards and forecasting.
+
+**Benefits:** structured digitalisation, fewer errors through automated pre-checks, time and cost savings, audit-proof accountability.
 
 Private, ongoing project – happy to present details in person.
